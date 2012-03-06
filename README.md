@@ -16,7 +16,7 @@ and activate it in you app (config/bootstrap/libraries.php), of course:
 
 ### Preparation
 
-	Metrics::$username = 'd1rk@gmx.de';
+	Metrics::$username = 'email@host.com';
 	Metrics::$token = '4077254dbb55d78414a9de3b97e4e2807f5addb8c746c3a6f6edaf1cb164940a';
 
 ### Sending data
